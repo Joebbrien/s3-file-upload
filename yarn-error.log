@@ -1,0 +1,31 @@
+Arguments: 
+  /usr/local/Cellar/node/16.3.0/bin/node /usr/local/Cellar/yarn/1.22.10/libexec/bin/yarn.js init
+
+PATH: 
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/Users/joebbrianbundabunda/.rvm/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  16.3.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (/usr/local/Cellar/yarn/1.22.10/libexec/lib/cli.js:96801:59)
+      at Object.<anonymous> (/usr/local/Cellar/yarn/1.22.10/libexec/lib/cli.js:89076:38)
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.22.10/libexec/lib/cli.js:310:30)
+      at /usr/local/Cellar/yarn/1.22.10/libexec/lib/cli.js:321:13
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
